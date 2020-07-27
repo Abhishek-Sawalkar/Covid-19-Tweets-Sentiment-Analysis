@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+matplotlib
+seaborn
+geopandas
+plotly
+descartes
+sklearn
+toml
