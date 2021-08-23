@@ -9,8 +9,8 @@
 Spyder Editor
 This is a twitter scraping program.
 """
-import twitter
-got = twitter.Api(consumer_key=<consumer key>,
+import GetOldTweets3
+got = GetOldTweets3.Api(consumer_key=<consumer key>,
                   consumer_secret=<consumer secret>,
                   access_token_key=<access token>,
                   access_token_secret=<access token secret>)
